@@ -1,0 +1,30 @@
+
+	/* RED ----------------------------------*/	
+	.red .page-title span {color: #DD3C26;}
+	.red .name-area h1 {background: #DD3C26;}
+	.red .menu .active {background: #DD3C26;}
+	.red .menu .active .bullet {background-image: url("../img/bullets/menu_bullet_red.png");}
+	.red .menu .active i {color: #F0F0F0; border-top: 2px solid #e7c2bd;}
+	.red .button-bar {background-color: #DD3C26;}
+	.red .button:hover {background: #F0F0F0; color: #DD3C26;}
+	.red .social-networks a:hover i {color: #DD3C26;}
+	.red #profile {background-color: #DD3C26;}
+	.red .profile-tabs .active {background: #DD3C26;}
+	.red .twitter-sign i {font-size: 57px; color: #DD3C26;}
+	.red .tweet span {color: #DD3C26;}
+	.red .process-part .icon-box i {color: #DD3C26;}
+	.red #testimonials {background-color: #DD3C26;}
+	.red .filter .selected i, .filter .selected span {color: #DD3C26;}
+	.red .portfolio-item span {color: #DD3C26;}
+	.red .portfolio-item:hover {background: #DD3C26;}
+	.red .overlay .bullet {width: 26px; height: 12px; background-image: url('../img/bullets/portfolio_bullet_red.png');}
+	.red .resume-icon-box {background: #DD3C26;}
+	.red .resume-content-box span {color: #DD3C26;}
+	.red .resume-bullet-right {background-image: url('../img/bullets/resume_bullet_right_red.png');}
+	.red .resume-bullet-left {background-image: url('../img/bullets/resume_bullet_left_red.png');}
+	.red .resume-bullet-bottom {background-image: url('../img/bullets/resume_bullet_bottom_red.png');}
+	.red .skill-tip {background: #DD3C26;}
+	.red .award-header {background: #DD3C26;}
+	.red #contact {background-color: #DD3C26;}
+	.red .contact-details i {color: #DD3C26;}	
+	
